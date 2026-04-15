@@ -1,0 +1,86 @@
+{
+  "year": 2026,
+  "cycles": [
+    {
+      "cycle": 1,
+      "areas": ["Malakal", "Ngerkebesang", "Meyuns", "Medalaii"],
+      "dates": [
+        {"due": "2026-01-15", "disconnection": "2026-01-21"},
+        {"due": "2026-02-12", "disconnection": "2026-02-18"},
+        {"due": "2026-03-12", "disconnection": "2026-03-18"},
+        {"due": "2026-04-09", "disconnection": "2026-04-15"},
+        {"due": "2026-05-07", "disconnection": "2026-05-13"},
+        {"due": "2026-06-04", "disconnection": "2026-06-10"},
+        {"due": "2026-07-02", "disconnection": "2026-07-08"},
+        {"due": "2026-07-30", "disconnection": "2026-08-05"},
+        {"due": "2026-08-27", "disconnection": "2026-09-02"},
+        {"due": "2026-09-24", "disconnection": "2026-09-30"},
+        {"due": "2026-10-22", "disconnection": "2026-10-28"},
+        {"due": "2026-11-19", "disconnection": "2026-11-25"},
+        {"due": "2026-12-17", "disconnection": "2026-12-23"},
+        {"due": "2027-01-14", "disconnection": "2027-01-20"}
+      ]
+    },
+    {
+      "cycle": 2,
+      "areas": ["Ngerbeched", "Ikelau", "Dngeronger", "Meketii"],
+      "dates": [
+        {"due": "2026-01-22", "disconnection": "2026-01-28"},
+        {"due": "2026-02-19", "disconnection": "2026-02-25"},
+        {"due": "2026-03-19", "disconnection": "2026-03-25"},
+        {"due": "2026-04-16", "disconnection": "2026-04-22"},
+        {"due": "2026-05-14", "disconnection": "2026-05-20"},
+        {"due": "2026-06-11", "disconnection": "2026-06-17"},
+        {"due": "2026-07-09", "disconnection": "2026-07-15"},
+        {"due": "2026-08-06", "disconnection": "2026-08-12"},
+        {"due": "2026-09-03", "disconnection": "2026-09-09"},
+        {"due": "2026-10-01", "disconnection": "2026-10-07"},
+        {"due": "2026-10-29", "disconnection": "2026-11-04"},
+        {"due": "2026-11-26", "disconnection": "2026-12-02"},
+        {"due": "2026-12-24", "disconnection": "2026-12-30"},
+        {"due": "2027-01-21", "disconnection": "2027-01-27"}
+      ]
+    },
+    {
+      "cycle": 3,
+      "areas": ["Idid", "Iyebukl", "Ngerchemai", "Ngerkesoal", "Ngermid"],
+      "dates": [
+        {"due": "2026-01-29", "disconnection": "2026-02-04"},
+        {"due": "2026-02-26", "disconnection": "2026-03-04"},
+        {"due": "2026-03-26", "disconnection": "2026-04-01"},
+        {"due": "2026-04-23", "disconnection": "2026-04-29"},
+        {"due": "2026-05-21", "disconnection": "2026-05-27"},
+        {"due": "2026-06-18", "disconnection": "2026-06-24"},
+        {"due": "2026-07-16", "disconnection": "2026-07-22"},
+        {"due": "2026-08-13", "disconnection": "2026-08-19"},
+        {"due": "2026-09-10", "disconnection": "2026-09-16"},
+        {"due": "2026-10-08", "disconnection": "2026-10-14"},
+        {"due": "2026-11-05", "disconnection": "2026-11-11"},
+        {"due": "2026-12-03", "disconnection": "2026-12-09"},
+        {"due": "2026-12-31", "disconnection": "2027-01-06"},
+        {"due": "2027-01-28", "disconnection": "2027-02-03"}
+      ]
+    },
+    {
+      "cycle": 4,
+      "areas": ["Airai", "Babeldaob", "Peleliu", "Angaur", "Kayangel"],
+      "dates": [
+        {"due": "2026-01-08", "disconnection": "2026-01-14"},
+        {"due": "2026-02-05", "disconnection": "2026-02-11"},
+        {"due": "2026-03-05", "disconnection": "2026-03-11"},
+        {"due": "2026-04-02", "disconnection": "2026-04-08"},
+        {"due": "2026-04-30", "disconnection": "2026-05-06"},
+        {"due": "2026-05-28", "disconnection": "2026-06-03"},
+        {"due": "2026-06-25", "disconnection": "2026-07-01"},
+        {"due": "2026-07-23", "disconnection": "2026-07-29"},
+        {"due": "2026-08-20", "disconnection": "2026-08-26"},
+        {"due": "2026-09-17", "disconnection": "2026-09-23"},
+        {"due": "2026-10-15", "disconnection": "2026-10-21"},
+        {"due": "2026-11-12", "disconnection": "2026-11-18"},
+        {"due": "2026-12-10", "disconnection": "2026-12-16"},
+        {"due": "2027-01-07", "disconnection": "2027-01-13"},
+        {"due": "2027-02-04", "disconnection": "2027-02-10"}
+      ]
+    }
+  ]
+}
