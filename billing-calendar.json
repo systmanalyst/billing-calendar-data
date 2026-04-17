@@ -63,7 +63,7 @@
     },
     {
       "cycle": 4,
-      "areas": ["Airai", "Babeldaob", "Peleliu", "Angaur", "Kayangel"],
+      "areas": ["Airai", "Babeldaob: Aimeliik, Ngatpang, Ngeremlengui, Ngardmau, Ngchesar, Melekeok, Ngiwal, Ngaraard, Ngarchelong", "Peleliu", "Angaur", "Kayangel"],
       "dates": [
         {"due": "2026-01-08", "disconnection": "2026-01-14"},
         {"due": "2026-02-05", "disconnection": "2026-02-11"},
